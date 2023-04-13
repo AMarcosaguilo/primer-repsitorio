@@ -1,2 +1,4 @@
-# primer-repsitorio
-repositorio de prueba de henry MZ
+este proyecto es el primero que hago y es la prueba que hago para programar
+MZ
+Marcus Zury
+Marcos Aguilo 
